@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "718612751710",
+    "firebase_url": "https://compta-app-b1e3b.firebaseio.com",
+    "project_id": "compta-app-b1e3b",
+    "storage_bucket": "compta-app-b1e3b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:718612751710:android:b54a36012e14917ace5bcf",
+        "android_client_info": {
+          "package_name": "com.compta.compta_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "718612751710-a1c2i5vhs7msqlthrg788a0rpk4drqh9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD6oJbQI6nvCQLVNI_3M2nYk8FRbIuDSyM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "718612751710-a1c2i5vhs7msqlthrg788a0rpk4drqh9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
